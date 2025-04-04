@@ -41,7 +41,7 @@ This repository contains a comprehensive analysis and modeling pipeline for our 
 
 ### Machine Learning Libraries
 - xgboost
-- tensorflow/pytorch (for neural networks)
+- PyTorch (for neural networks)
 - optuna (for hyperparameter optimization)
 
 ### Geospatial Libraries
