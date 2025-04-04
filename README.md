@@ -12,7 +12,7 @@ This repository contains a comprehensive analysis and modeling pipeline for our 
 
 ### Machine Learning Models
 - `datathon2025-linreg.ipynb`: Linear Regression model implementation
-- `datathon10125-rf.ipynb`: Random Forest model implementation
+- `datathon2025-rf.ipynb`: Random Forest model implementation
 - `datathon2025-nn.ipynb`: Neural Network model implementation
 - `datathon2025-xgb.ipynb`: XGBoost model implementation
 
